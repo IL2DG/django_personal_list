@@ -1,1 +1,1 @@
-web: gunicorn Kursach.wsgi
+web: gunicorn Kursach.wsgi --log-file -
